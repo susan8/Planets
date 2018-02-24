@@ -1,3 +1,0 @@
-This is the first entry
-i added this line between the two existing lines to see its effect using git diff
-i am making a change to see its effect
